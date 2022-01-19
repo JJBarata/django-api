@@ -23,5 +23,5 @@
     • PostgreSQL 14
 
 <p align="center">
-<a href="https://github.com/JJBarata/aluraflix-backend/blob/master/LICENSE " target="_blank"><img src="https://img.shields.io/badge/licence-MIT-blue.svg" alt="" /></a>
+<a href="https://github.com/JJBarata/django-api/blob/master/LICENSE " target="_blank"><img src="https://img.shields.io/badge/licence-MIT-blue.svg" alt="" /></a>
 </p>
